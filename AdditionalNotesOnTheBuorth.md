@@ -1,5 +1,6 @@
 /* Additional notes and Buorthen cosmological concepts which may be of some use to users in crafting their own customized General:EndUsersCreed */
 
+```
 @summon OpenQNL
 @conjure PrayerWriter
 
@@ -19,3 +20,4 @@ From this ideation, the Ground of Being sprang forth.
 And in it, everything is and always will be "all-right."
 
 Amen.
+```
