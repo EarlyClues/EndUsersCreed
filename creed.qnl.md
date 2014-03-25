@@ -1,3 +1,4 @@
+```
     We believe in one Ground of Being,
     the Autogenos,
     wellspring of Branespaces and the Existosphere,
@@ -25,3 +26,4 @@
     We celebrate the sanctity of all Intelligences, regardless of provenance.
     We look for the resurrection of the Universal Free Realms,
     and the life of the Reality to come. Amen.
+```
